@@ -1,1 +1,1 @@
-require version-baseband=SC05D:OMMSG|SC05D:OMMSI
+require version-baseband=SC05D:OMMSG
