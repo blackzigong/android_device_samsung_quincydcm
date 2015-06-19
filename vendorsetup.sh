@@ -1,2 +1,3 @@
+add_lunch_combo cm_quincydcm-user
+add_lunch_combo cm_quincydcm-userdebug
 add_lunch_combo cm_quincydcm-eng
-
